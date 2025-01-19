@@ -27,7 +27,6 @@ st.title("3-Statement Financial Model")
 
 # P/L Statement Section
 st.header("1. Profit & Loss (P/L) Statement")
-st.write("For loss add a negative sign before the amount.")
 if st.checkbox("Add P/L Data"):
     handle_pl_form()
 if not st.session_state['pl_data'].empty:
