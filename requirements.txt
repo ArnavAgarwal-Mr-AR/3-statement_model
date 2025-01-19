@@ -1,3 +1,2 @@
 pandas
 reportlab==4.2.5
-base64
