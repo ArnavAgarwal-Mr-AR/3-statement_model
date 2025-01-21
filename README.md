@@ -39,11 +39,11 @@ flowchart TB
     CFM --> SG
     SG --> RF
 
-    classDef input fill:#6495ED
-    classDef controller fill:#FFA500
-    classDef processor fill:#98FB98
-    classDef utility fill:#D3D3D3
-    classDef module fill:#90EE90
+    classDef input fill:#6495ED 
+    classDef controller fill:#aa2222
+    classDef processor fill:#3d643d
+    classDef utility fill:#a47fa8
+    classDef module fill:#2e4b2e
     classDef output fill:#6495ED
 
     click MAC "https://github.com/ArnavAgarwal-Mr-AR/3-statement_model/blob/main/app.py"
