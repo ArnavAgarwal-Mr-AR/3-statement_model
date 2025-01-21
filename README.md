@@ -3,7 +3,7 @@ Generate your P&amp;L statement, Balance sheet and Cash Flow statement just by e
 
 [![3 Statement Model made with python | P/L Statement, Balance Sheet and Cash Flow Statement Generator](https://img.youtube.com/vi/EKssnE_8Wns/0.jpg)](https://www.youtube.com/watch?v=EKssnE_8Wns&autoplay=1)
 
-''''mermaid
+'''mermaid
 flowchart TB
     subgraph Input
         UI[User Interface]:::input
@@ -51,4 +51,4 @@ flowchart TB
     click BSM "https://github.com/ArnavAgarwal-Mr-AR/3-statement_model/blob/main/bs_module.py"
     click CFM "https://github.com/ArnavAgarwal-Mr-AR/3-statement_model/blob/main/cf_module.py"
 
-''''
+'''
