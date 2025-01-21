@@ -46,9 +46,4 @@ flowchart TB
     classDef module fill:#2e4b2e
     classDef output fill:#6495ED
 
-    click MAC "https://github.com/ArnavAgarwal-Mr-AR/3-statement_model/blob/main/app.py"
-    click PLM "https://github.com/ArnavAgarwal-Mr-AR/3-statement_model/blob/main/pl_module.py"
-    click BSM "https://github.com/ArnavAgarwal-Mr-AR/3-statement_model/blob/main/bs_module.py"
-    click CFM "https://github.com/ArnavAgarwal-Mr-AR/3-statement_model/blob/main/cf_module.py"
-
 ```
